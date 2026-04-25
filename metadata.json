@@ -1,0 +1,11 @@
+{
+  "name": "Max - AI Voice Assistant",
+  "description": "A real-time, smart and witty sky-blue themed voice-to-voice AI assistant named Max.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "voice_interaction",
+    "real_time_processing"
+  ]
+}
